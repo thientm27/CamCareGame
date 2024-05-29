@@ -22,9 +22,8 @@
 CamCareGame is not just a game; it carries an important message about breast cancer awareness. By integrating risk factors into the gameplay mechanics, it subtly educates players on how various lifestyle choices and inherent factors can influence their health. The goal is to promote awareness and encourage healthier lifestyle choices to reduce the risk of breast cancer.
 
 ## 🚀 Installation
-- To play CamCareGame, follow these steps:
 - Click url below and enjoy:
-https://github.com/yourusername/CamCareGame.git
+[https://github.com/yourusername/CamCareGame.git](https://thientm27.github.io/CamCareGame/)
 
 ## 🤝 Contribution
 We welcome contributions from the community. If you have any ideas, suggestions, or improvements, please feel free to submit a pull request.
@@ -38,6 +37,6 @@ Thank you to all contributors and players who have supported the development of 
 Let's spread awareness about breast cancer together, one game at a time. Enjoy playing CamCareGame!
 
 ## 📧 Contact
-For more information or support, please contact your.email@example.com.
+For more information or support, please contact thientm.denk@gmail.com.
 
 Happy gaming! 🎉
